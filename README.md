@@ -3,7 +3,6 @@
 Under this directory you can find build scripts for Docker images (Dockerfiles) and related documentation for Data Server Manager.
 
     
-    Base image
+    Docker images
     Cloud deployment
-         Bluemix
-         Kubernetes
+        
